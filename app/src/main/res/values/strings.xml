@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Robots</string>
+
+    <string name="screen_settings_title">Settings</string>
+    <string name="screen_game_title">Robots</string>
+
+    <string name="game_round_shuffle">Shuffle</string>
+    <string name="game_round_start_text">Start</string>
+    <string name="game_round_stop_text">Stop</string>
+    <string name="game_players_score_title">Player\'s scores</string>
+
+    <string name="settings_players_format">%s/%s players</string>
+    <string name="settings_player_add">Add</string>
+    <string name="settings_player_remove">Remove</string>
+    <string name="settings_save">Save</string>
+    <string name="settings_saved_message">Settings saved!</string>
+
+    <string name="item_game_score_format">%s (%s points)</string>
+    <string name="item_game_stats_time_format">Total game time: %ss</string>
+    <string name="item_game_stats_stalemate_format">Stalemates: %s</string>
+    <string name="item_game_stats_round_number">Round %s</string>
+
+    <string name="menu_settings">@string/screen_settings_title</string>
+
+    <string name="emoji_trophy">🏆️</string>
+</resources>
